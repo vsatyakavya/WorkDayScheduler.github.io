@@ -1,6 +1,8 @@
 $(document).ready(function(){
-  
+    //getting date from moment.js
+    $("#currentDay").text(moment().format('dddd, MMMM Do'));
 
+//function to store data to local storage
 function saveEvent(){
  
    var id=$(this).parent().attr("id");
@@ -10,7 +12,7 @@ function saveEvent(){
 }
 $(".saveBtn").on("click", saveEvent);
 
-
+//function to add colors to textarea and get data from local storage
 $(".time-block").each(function(){
    var id= $(this).attr("id");
    var task=localStorage.getItem(id);
@@ -19,10 +21,8 @@ $(".time-block").each(function(){
    description.val(task);
 
    var time=moment().hours();
-   time=time-3
-   
    id=parseInt(id);
-   console.log({id,time});
+
    if(id===time)
    {
      description.addClass("present");
