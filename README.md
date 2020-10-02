@@ -26,7 +26,7 @@
 ![picture](Assets/dayplanner.png)
 
 # Github Page 
-https://vsatyakavya.github.io/WorkDayScheduler.github.io/.
+https://vsatyakavya.github.io/WorkDayScheduler.github.io/Develop
 
 
 
