@@ -26,11 +26,12 @@
 ![picture](Assets/dayplanner.png)
 
 # Github Page 
- https://vsatyakavya.github.io/QuizGame.github.io/.
+https://vsatyakavya.github.io/WorkDayScheduler.github.io/.
+
 
 
 
 # Github Repository
-https://github.com/vsatyakavya/QuizGame.github.io
+https://github.com/vsatyakavya/WorkDayScheduler.github.io
 
 @copyright 2020
