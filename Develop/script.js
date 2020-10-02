@@ -39,5 +39,6 @@ $(".time-block").each(function(){
    }
 
 })
+
 });
 
