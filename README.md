@@ -34,4 +34,7 @@ https://vsatyakavya.github.io/WorkDayScheduler.github.io/Develop
 # Github Repository
 https://github.com/vsatyakavya/WorkDayScheduler.github.io
 
+# contact
+satyakavya24@gmail.com
+
 @copyright 2020
